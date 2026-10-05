@@ -1,0 +1,34 @@
+# Break:
+- it is used inside looping statement
+- used to the terminate the flow of execution and exit from the loop
+
+# Continue
+- used inside the looping statement to skip the current iteration
+- returns the flow back to the loop again
+
+# Pass
+- its used to reserve the statement block
+- used to convert empty block to valid block
+- it can be used with conditional statements,functions,class,looping. 
+
+Break and Continue keyword will not execute any statement written immediately after them 
+
+
+incomplete termination
+
+for i in range(1,6):
+      if i==3:
+      Break
+    print(i)
+else:
+    print('hello')
+
+
+successful termination
+
+for i in range(1,6):
+      if i==10:
+      Break
+    print(i)
+else:
+    print('hello')

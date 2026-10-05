@@ -1,0 +1,40 @@
+# FUNCTIONS
+#---------
+1). It is a block of code which is used to perform some specific task
+2). It is name given to the memory allocation where some set of instructions are stored
+3). It id a container which contains our business or application logic
+
+Application of Functions:
+
+1). Helps in code reusability
+2). Improve the readability of the code
+3). Provides the structure to the program
+4). Easy to debug and maintenance
+
+There are two type of functions:
+1). Inbuilt Functions
+these are the pre defined functions available in python.
+we can access and use it bt we cannot modify it.
+
+i. Utility Functions --> id(),len(),type(),print(),input()
+ii. Functions of Strings
+iii. Functions of Lists
+iv. Functions of tuples
+v. Functions of set
+vi. Functions of dict
+
+Functions of Strings --> 
+# 1). upper() : Syntax : var.upper()
+# 2). lower() : Syntax : var.lower()
+# 3). swapcase() : Syntax : var.swapcase()
+# 4). capitalize() : Syntax : var.capitalize()
+# 5). title() : Syntax : var.title()
+# 6). isupper() : Syntax : var.isupper()
+# 7). islower():- :- Syntax : var.islower()
+# 8). istitle() :- Syntax : var.istitle()
+# 9). isdigit() :- Syntax : var.isdigit()
+# 10). isalpha() :- Syntax : var.isalpha()
+# 11). isalnum() :- Syntax : var.isalnum()
+# 12). isspace() :- Syntax : var.isspace()
+# 13). isstartswith() :- Syntax : var.isstartswith()
+# 14). isendswith() :- Syntax : var.isendswith()

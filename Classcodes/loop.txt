@@ -1,0 +1,18 @@
+## Looping Statement
+- Looping Statement are the statements which are used top execute , same set of instructions repeatedly
+
+## While
+- it executes same set of instructions repeatedly until and unless condition becomes false
+
+## Initialization and updation
+- updation--> Statement block
+
+Initialization
+while condition
+      SB
+      updation
+
+## For loop
+when we know exact no of iteration then we should use for loop , initialization and updation is not required in for loop
+its applicable on iterable datatype
+the no. of repeatation depends 
